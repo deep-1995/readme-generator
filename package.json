@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.1.0",
+  "description": "\"make readme file using node.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo\\\"Error:no test\\\"&& exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep-1995/readme-generator.git"
+  },
+  "keywords": [
+    "readme-file"
+  ],
+  "author": "prabhdeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep-1995/readme-generator/issues"
+  },
+  "homepage": "https://github.com/deep-1995/readme-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  }
+}
