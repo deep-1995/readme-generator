@@ -3,9 +3,9 @@ Automated template that produces an organized and formatted readme.md file
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ## GITHUB USER: deep-1995
 ## GITHUB EMAIL: null
-# ![deep-1995](https://avatars3.githubusercontent.com/u/63137850?v=4)
+# ![deep-1995](https://avatars3.githubusercontent.com/u/63137850?v=4)s
 ## Click video link below to watch demo
-# [![Watch the video]
+# [![Watch the video](https://github.com/deep-1995/readme-generator/blob/master/assets/image/readme%20file.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
