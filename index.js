@@ -72,10 +72,9 @@ ${description}
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ## GITHUB USER: ${username}
 ## GITHUB EMAIL: ${email}
-# ![${username}](${profilePic})
+# ![${username}](${profilePic})s
 ## Click video link below to watch demo
-# Working of readme file
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gXdwBbcjBlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# [![Watch the video](https://raw.githubuserco202020-06-03%20at%2011.41.56%20AM.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
