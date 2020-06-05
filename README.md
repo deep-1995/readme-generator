@@ -1,5 +1,5 @@
-# README readme-generator
-making readme file using node.js
+# README Readme-Generator
+Automated template that produces an organized and formatted readme.md file
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ## GITHUB USER: deep-1995
 ## GITHUB EMAIL: null
