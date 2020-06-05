@@ -74,7 +74,7 @@ ${description}
 ## GITHUB EMAIL: ${email}
 # ![${username}](${profilePic})s
 ## Click video link below to watch demo
-# [![Watch the video](https://raw.githubuserco202020-06-03%20at%2011.41.56%20AM.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
+# [![Watch the video](https://github.com/deep-1995/readme-generator/blob/master/assets/image/readme%20file.png)](https://www.youtube.com/watch?v=gXdwBbcjBlU)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
